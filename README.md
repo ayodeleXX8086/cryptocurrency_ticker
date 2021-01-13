@@ -1,1 +1,1 @@
-# crytocurrency_ticker
+# cryptocurrency_ticker
